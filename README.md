@@ -1,27 +1,3 @@
- How to Add the MERN Stack Project to Your GitHub
-Project to Upload: Task Manager Web App
-
-Step 1 — Create a New Repository
-
-Go to github.com/mnaveenanaveena7-debug
-Click the "+" icon (top right) → New repository
-Fill in:
-
-Repository name: task-manager-mern
-Description: A full-stack Task Manager app built with MongoDB, Express, React, and Node.js
-Set to Public
-Check "Add a README file"
-
-
-Click Create repository
-
-
-Step 2 — Add This README Content
-Once the repo is created, click the pencil icon on README.md and paste this:
-#  Task Manager App — MERN Stack
-
-A full-stack task management web application built using the MERN stack 
-(MongoDB, Express.js, React, Node.js).
 
 ## Features
 - Add, update, delete tasks (CRUD)
